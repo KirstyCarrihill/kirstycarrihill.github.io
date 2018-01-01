@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Kirsty's Blog
 email: kirsty.carrihill-knoll@contrastsecurity.com
-description: This is Kirsty's new Contrst Security Blog
+description: This is Kirsty's new Contrast Security Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: carrihillknoll
