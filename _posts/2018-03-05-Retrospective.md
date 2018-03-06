@@ -1,0 +1,18 @@
+---
+layout: post
+title: My Retrospective Maiden Voyage
+---
+
+Preparation was key. I would not have done a practice dry run if I was not made to by Steve, and I'm so glad I did. Thank you. I now know that this is not something you can read a few articles about, think you have it locked down & then wing it. The practice run made me see that I was going to be unexpectedly more nervous than I thought, that the introduction to doing Retrospectives at this new company was far different than ones I had done elsewhere, and it gave me familiarity with using the note and electronic tools that were familiar to Contrast but unfamiliar to me. The dry run practice got me on point with what language to use and not use, as well as what exactly I should do as the moderator.
+
+I did feel a little strange running a retrospective for a project I was only involved in 1 month out of 6. I was worried that my unfamiliarity with the entirety of the project would hinder how well I could moderate and guide the discussion. I also felt some pressure to do well as this was the 1st retrospective the company had done in a while and how this one went would set the standard and expectations of future Retros.
+
+Thank goodness I gave myself a few minutes to get the Retrospective room ready, get my laptop linked up to the conference room camera and go over my notes. I was also really impressed that everyone locally showed up on time and ready to roll. The offsite attendees trickled in a few minutes later but that allowed time for any questions before the official retrospective start, which I was glad for. 
+
+As expected there were a few glitches that occurred that I can prevent the next time. E.g. Some attendees had got a head start on completing cards prior to the retrospective, while others at the mere mention of cards were already confused. Some attendees even though they had been invited to the Retrospective were unaware of the groups Trello board for the event. 
+
+Discussion started slow and it was like pulling teeth to get people to talk and discuss. I need to have a few more weapons in my arsenal for the next time to get interactions and discussion happening more actively and sooner. Discussions were limited on "What went well" as it seemed we were either all on the same page with those cards or there was some uncertainty or modesty as to what actually went well with a project that was ended before deployment. Card writing, discussion and additional comments was limited, and it was a short-lived event.
+
+To my relief and expectation, discussions really amped up with the "What needs improvement" cards. People were much more at ease about speaking their ideas and adding additional comments to other cards during this portion. This was the one section of the retrospective where I had everyone's attention, and everyone contributed to the discussion. I could still feel a sense of nervousness to 100% speak their minds and a small amount of hesitation for possible repercussions for their comments. Hopefully, in the future, retrospectives will be known as a safe place to truly make your feelings and ideas known when a pattern emerges one retrospective after another that retrospectives are safe and a place for positive change.
+
+I asked for feedback at the end and stated it was for personal growth as I was certain there would be more retrospectives in my future. I have yet to receive any feedback. Which means I either killed it, it was a non-event, or my colleagues are just very busy people. 
